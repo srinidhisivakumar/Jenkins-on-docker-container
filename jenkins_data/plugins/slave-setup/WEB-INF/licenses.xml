@@ -1,0 +1,6 @@
+<l:dependencies xmlns:l='licenses'>
+  <l:dependency name='Jenkins Slave SetupPlugin' groupId='org.jenkins-ci.plugins' artifactId='slave-setup' version='1.10' url='http://wiki.jenkins-ci.org/display/JENKINS/Slave+Setup+Plugin'>
+    <l:description />
+    <l:license name='The MIT license' url='http://www.opensource.org/licenses/mit-license.php' />
+  </l:dependency>
+</l:dependencies>

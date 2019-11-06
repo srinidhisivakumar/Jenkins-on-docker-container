@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Long-Name: Outbound WebHook for build events
+Plugin-Developers: Tyler Long:tylerlong:tyler4long@gmail.com
+Group-Id: org.jenkins-ci.plugins
+Extension-Name: outbound-webhook
+Plugin-Version: 0.2.0
+Jenkins-Version: 2.5
+Url: https://github.com/jenkinsci/outbound-webhook-plugin
+Short-Name: outbound-webhook
+
